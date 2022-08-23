@@ -1,0 +1,52 @@
+
+
+.container{
+    width: 40vw;
+    height: 75vh;
+    background-color: rgb(170, 169, 167);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+}
+
+.item1{
+    height: 20%;
+    width: 100%;
+    background-color: chartreuse;
+}
+
+.secundarioBOX{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    gap: 10px;
+}
+
+.item2{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+}
+
+.item3{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+}
+
+.item4{
+    width: 100%;
+    height: 25%;
+    background-color: blueviolet;
+}
+
+.item5{
+    width: 100%;
+    height: 25%;
+    background-color: rgb(125, 95, 153);
+}
+
+
+
