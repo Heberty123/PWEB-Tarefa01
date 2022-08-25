@@ -1,0 +1,86 @@
+.container{
+    width: 40vw;
+    height: 60vh;
+    background-color: rgb(206, 203, 198);
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    gap: 2%;
+    margin: auto;
+}
+
+.item1{
+    width: 49%;
+    height: 49%;
+    background-color: aqua;
+}
+
+.item2{
+    width: 49%;
+    height: 49%;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 1%;
+}
+
+.item3{
+    width: 49%;
+    height: 49%;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 2%;
+}
+
+.item4{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(57, 97, 133);
+}
+
+.item2_1{
+    width: 49%;
+    height: 49%;
+    background-color: beige;
+}
+
+.item2_2{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(99, 99, 57);
+}
+
+.item2_3{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(99, 99, 57);
+}
+
+.item2_4{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(184, 184, 182);
+}
+
+.item3_1{
+    width: 49%;
+    height: 49%;
+    background-color: beige;
+}
+
+.item3_2{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(99, 99, 57);
+}
+
+.item3_3{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(99, 99, 57);
+}
+
+.item3_4{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(184, 184, 182);
+}
