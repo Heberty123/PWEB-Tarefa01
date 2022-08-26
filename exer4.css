@@ -1,0 +1,142 @@
+.container{
+    width: 40vw;
+    height: 60vh;
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 1%;
+}
+
+.box1{
+    width: 34%;
+    height: 99%;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 1%;
+}
+
+.box2{
+    width: 64%;
+    height: 49%;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 2%;
+}
+
+.box3{
+    width: 64%;
+    height: 49%;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 2%;
+}
+
+.item1{
+    width: 49%;
+    height: 24%;
+    background-color: blue;
+}
+
+.item2{
+    width: 49%;
+    height: 24%;
+    background-color: rgb(63, 63, 119);
+}
+
+.item3{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(110, 110, 163);
+}
+
+.item4{
+    width: 49%;
+    height: 99%;
+    background-color: rgb(180, 180, 218);
+}
+
+.item5{
+    width: 49%;
+    height: 49%;
+    background-color: cadetblue;
+}
+
+.item6{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(49, 87, 88);
+}
+
+.item7{
+    width: 39%;
+    height: 49%;
+    background-color: rgb(37, 85, 85);
+}
+
+.item8{
+    width: 59%;
+    height: 49%;
+    background-color: rgb(32, 161, 161);
+}
+
+.box4{
+    width: 49%;
+    height: 99%;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 2%;
+}
+
+.box5{
+    width: 49%;
+    height: 99%;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 2%;
+}
+
+.item9{
+    width: 69%;
+    height: 39%;
+    background-color: blue;
+}
+
+.item10{
+    width: 29%;
+    height: 39%;
+    background-color: rgb(52, 52, 110);
+}
+
+.item11{
+    width: 69%;
+    height: 59%;
+    background-color: rgb(77, 165, 113);
+}
+
+.item12{
+    width: 29%;
+    height: 59%;
+    background-color: rgb(161, 59, 187);
+}
+
+.item13{
+    width: 49%;
+    height: 99%;
+    background-color: aquamarine;
+}
+
+.item14{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(33, 92, 72);
+}
+
+.item15{
+    width: 49%;
+    height: 49%;
+    background-color: rgb(37, 238, 171);
+}
+
